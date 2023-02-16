@@ -74,7 +74,7 @@
 <h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
 <br>
 <p>
-  <a href="https://youtu.be/63opfUkPq6k" target="_blank">
+  <a href="[https://youtu.be/63opfUkPq6k](https://www.youtube.com/channel/UCkvYI0aJdBE_lvMGFKcIMCg)" target="_blank">
     <strong>☕ Học lập trình </strong>
   </a>
 </p>
